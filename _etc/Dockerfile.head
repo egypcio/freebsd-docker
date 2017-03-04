@@ -1,0 +1,2 @@
+FROM		scratch
+MAINTAINER	Vinicius Zavam <egypcio@googlemail.com>
