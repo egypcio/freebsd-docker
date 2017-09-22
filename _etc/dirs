@@ -44,5 +44,6 @@
 /usr/share/vt
 /usr/share/zoneinfo
 /usr/src
+/usr/tests
 /var/db/etcupdate
 /var/games
